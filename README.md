@@ -3,7 +3,7 @@
 ## Description:
 The Farm Animal Detection and Notification System is a project designed to utilize an ESP32-CAM module, an FTDI programmer, and Python code to detect the presence of animals in a farm environment and notify the owner accordingly. The system employs computer vision techniques to analyze images captured by the ESP32-CAM and identify animals using object detection algorithms. Upon detection of specific animals, such as elephants, the system sends an SMS notification to the owner to alert them of the animal's presence.
 
-## Components Used:*
+## Components Used:
 1. **ESP32-CAM Module**: The ESP32-CAM is a versatile microcontroller module with built-in Wi-Fi and camera capabilities, making it suitable for capturing images in remote locations.
 2. **FTDI Programmer**: The FTDI programmer is used for uploading code and communicating with the ESP32-CAM module.
 3. **Python (Jupyter Notebook)**: Python code is used for image processing, object detection, SMS notification, and interaction with Firebase Storage.
