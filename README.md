@@ -9,7 +9,7 @@ The Farm Animal Detection and Notification System is a project designed to utili
 3. **Python (Jupyter Notebook)**: Python code is used for image processing, object detection, SMS notification, and interaction with Firebase Storage.
 4. **Arduino IDE**: The Arduino IDE is used for programming the ESP32-CAM module to serve images over HTTP.
 
-##Installation and Running the Code:
+## Installation and Running the Code:
 1. **Hardware Setup**:
    - Connect the ESP32-CAM module to the FTDI programmer for programming and power.
    - Ensure that the ESP32-CAM module is properly configured and connected to the farm environment where animal detection is required.
